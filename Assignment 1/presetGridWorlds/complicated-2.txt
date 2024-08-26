@@ -1,0 +1,6 @@
+X W W W W X
+W B W B W W
+W W X W W W
+G G G B W B
+G G G W X W
+X G G W W B
